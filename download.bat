@@ -8,3 +8,6 @@ wget "http://download.mozilla.org/?lang=ta&product=firefox-18.0&os=win" -O firef
 
 REM download money manager version: 0.9.9.0
 wget "http://www.codelathe.com/mmex/installer/windows/mmex_0.9.9.0_win32_setup.exe"
+
+REM download fonts pack from thamizha website.
+wget "http://thamizha.com/sites/downloads/thamizha-tamil-fonts-installer-1.0.exe"
